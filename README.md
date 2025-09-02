@@ -1,13 +1,17 @@
 # 💸 Full Stack AI Finance Platform  
 
-## Landing Page
-<img width="1053" height="826" alt="image" src="https://github.com/user-attachments/assets/a232da5f-ea9e-4e6f-95cc-95590a3f6d11" />
+## 📸 Screenshots  
 
-## Dashboard
-<img width="1020" height="564" alt="image" src="https://github.com/user-attachments/assets/e40832f3-df29-4e7a-96ce-c7b4ee1fe470" />
+### Landing Page  
+<img width="1053" height="826" alt="Landing Page" src="https://github.com/user-attachments/assets/a232da5f-ea9e-4e6f-95cc-95590a3f6d11" />  
 
-## AI Reciept Scanner
-<img width="999" height="582" alt="image" src="https://github.com/user-attachments/assets/dc7279f6-e8e8-4fe0-bdf6-b3c07c3b8807" />
+### Dashboard  
+<img width="1020" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/e40832f3-df29-4e7a-96ce-c7b4ee1fe470" />  
+
+### AI Receipt Scanner  
+<img width="999" height="582" alt="AI Receipt Scanner" src="https://github.com/user-attachments/assets/dc7279f6-e8e8-4fe0-bdf6-b3c07c3b8807" />  
+
+---
 
 Built with cutting-edge technologies to deliver a secure, scalable, and modern finance management solution.  
 
@@ -44,6 +48,3 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 GEMINI_API_KEY=
 RESEND_API_KEY=
 ARCJET_KEY=
-
-Made with ❤️ by <b>Ayush Singh</b>  
-
