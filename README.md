@@ -5,6 +5,9 @@
 ### Landing Page  
 <img width="1053" height="826" alt="Landing Page" src="https://github.com/user-attachments/assets/a232da5f-ea9e-4e6f-95cc-95590a3f6d11" />  
 
+<img width="1011" height="818" alt="image" src="https://github.com/user-attachments/assets/6323e656-e6bd-4e8f-8ec4-ca4c21d4a4e9" />
+
+
 ### Dashboard  
 <img width="1020" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/e40832f3-df29-4e7a-96ce-c7b4ee1fe470" />  
 
