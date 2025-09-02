@@ -11,6 +11,9 @@
 ### AI Receipt Scanner  
 <img width="999" height="582" alt="AI Receipt Scanner" src="https://github.com/user-attachments/assets/dc7279f6-e8e8-4fe0-bdf6-b3c07c3b8807" />  
 
+### Profile Page
+<img width="640" height="538" alt="image" src="https://github.com/user-attachments/assets/5cc0eb6b-d515-45cc-a240-5f2ec9476ad0" />
+
 ---
 
 Built with cutting-edge technologies to deliver a secure, scalable, and modern finance management solution.  
